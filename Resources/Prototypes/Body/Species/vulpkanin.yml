@@ -133,6 +133,13 @@
           32:
             sprite: _Sunrise/Mobs/Species/Vulpkanin/displacement.rsi
             state: head_small_muzzle
+      # Sunrise added start
+      pants-body-curved-small-muzzle:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Reptilian/displacement.rsi
+            state: jumpsuit-female
+      # Sunrise added end
       jumpsuit-body-curved-small-muzzle:
         sizeMaps:
           32:
@@ -169,6 +176,13 @@
           32:
             sprite: _Sunrise/Mobs/Species/Vulpkanin/displacement.rsi
             state: mask
+      # Sunrise added start
+      pants-body-curved-big-muzzle:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Reptilian/displacement.rsi
+            state: jumpsuit-female
+      # Sunrise added end
       jumpsuit-body-curved-big-muzzle:
         sizeMaps:
           32:
@@ -232,6 +246,13 @@
           32:
             sprite: _Sunrise/Mobs/Species/Vulpkanin/displacement.rsi
             state: head_small_muzzle
+      # Sunrise added start
+      pants-body-curved-small-muzzle:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Reptilian/displacement.rsi
+            state: jumpsuit
+      # Sunrise added end
       jumpsuit-body-curved-small-muzzle:
         sizeMaps:
           32:
@@ -268,6 +289,13 @@
           32:
             sprite: _Sunrise/Mobs/Species/Vulpkanin/displacement.rsi
             state: mask
+      # Sunrise added start
+      pants-body-curved-big-muzzle:
+        sizeMaps:
+          32:
+            sprite: _Sunrise/Mobs/Species/Reptilian/displacement.rsi
+            state: jumpsuit
+      # Sunrise added end
       jumpsuit-body-curved-big-muzzle:
         sizeMaps:
           32:
